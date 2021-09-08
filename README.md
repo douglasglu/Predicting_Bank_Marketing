@@ -1,6 +1,6 @@
 # Predicting the Success of Bank Telemarketing
 
-**Collaborators**: Douglas Lu
+**Contributor**: Douglas Lu
 
 ## Table of Contents
 * [Overview](#Overview)
