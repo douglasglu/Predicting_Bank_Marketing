@@ -96,23 +96,23 @@ Neural Network: <insert additional analysis>
 
 ## Analysis
   
-<insert analysis of best performing model as well as evaluation of said model> 
-<insert why this model performed the best>
-<insert analysis of second best-performing model as well as evaluation of said model>
-<insert why this model performed the second-best>
+insert analysis of best performing model as well as evaluation of said model
+insert why this model performed the best
+insert analysis of second best-performing model as well as evaluation of said model
+insert why this model performed the second-best
 
 ## Results
   
-<interpret results of best model and secondary model and how it relates to business problem as well as how it can help banks improve>
+interpret results of best model and secondary model and how it relates to business problem as well as how it can help banks improve
 
 ## Conclusions
 
-<draw conclusions from the project as well as steps for improvement>
+draw conclusions from the project as well as steps for improvement
   
 ## Next Steps
 
-<highlight factors for model improvement, preprocessing and collection>
-<highlight use cases of said project and business recommendation>
+highlight factors for model improvement, preprocessing and collection
+highlight use cases of said project and business recommendation
   
 ## Repository Structure
 
