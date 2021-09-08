@@ -1,4 +1,4 @@
-![neobank_wallpaper](./images/neobank_wallpaper.png)
+![neobank_wallpaper](./Images/neobank_wallpaper.png)
 
 # Predicting the Success of Bank Telemarketing
 
@@ -20,6 +20,8 @@
 Acquiring new prospects in order to accumulate additional assets under management is one of the key important avenues of growth for a financial institution. As prospects and clients earn a bank's trust, they will become more inclined to deposit their savings with the bank. Once a bank earns the trust of its users, assets become revenue streams as clients begin to venture into opening additional accounts, on top of their savings account, such as brokerage accounts, retirement accounts, line of credits, mortgages, as well as private equity and venture capital accounts. In a world where interest rates are very low, it becomes even more imperative to capture the trust of prospects and clients, as traditional banks and neo-banks compete for assets. 
 
 In today's financial services industry, client data has become another key differentiator for an institution's abiliity to surivive in this hyper-competitve environment. One key way for financial institutions to provide a better overall customer experience for its prospects and clients is to leverage the power of machine learning, specifically when it pertains to prospecting clients and soliciting new financial products while minimzing the intrusive nature of soliciting as well as the time and resources dedicated to soliciting new products.  
+
+![neobank_wallpaper_2](./Images/neobank_wallpaper_2.png)
 
 ## Business Problem
 
