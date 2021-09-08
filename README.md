@@ -29,7 +29,7 @@ The data obtained from the link, which is related to a direct marketing campaign
 **Target Data**: 
 
 Output variable (desired target):
-  1.  has the client subscribed a term deposit? (binary: "yes","no")
+1 - has the client subscribed a term deposit? (binary: "yes","no")
 
 Input variables:
 Bank Client Data:
