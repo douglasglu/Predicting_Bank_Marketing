@@ -21,7 +21,7 @@ Acquiring new prospects in order to accumulate additional assets under managemen
 
 In today's financial services industry, client data has become another key differentiator for an institution's abiliity to surivive in this hyper-competitve environment. One key way for financial institutions to provide a better overall customer experience for its prospects and clients is to leverage the power of machine learning, specifically when it pertains to prospecting clients and soliciting new financial products while minimzing the intrusive nature of soliciting as well as the time and resources dedicated to soliciting new products.  
 
-![neobank_wallpaper_2](./Images/neobank_wallpaper_2.png)
+![neobank_wallpaper_2](./Images/neobank_wallpaper_2.jpeg)
 
 ## Business Problem
 
