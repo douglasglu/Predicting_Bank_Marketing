@@ -1,3 +1,5 @@
+![neobank_wallpaper](./images/neobank_wallpaper.png)
+
 # Predicting the Success of Bank Telemarketing
 
 **Contributor**: Douglas Lu
