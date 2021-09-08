@@ -31,8 +31,8 @@ The data obtained from the link, which is related to a direct marketing campaign
 Output variable (desired target):
   1.  has the client subscribed a term deposit? (binary: "yes","no")
 
- Input variables:
-   # bank client data:
+Input variables:
+Bank Client Data:
    
 1 - age (numeric)
 
