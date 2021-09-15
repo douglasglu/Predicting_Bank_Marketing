@@ -31,6 +31,8 @@ In today's financial services industry, client data has become another key diffe
 
 The core business prolblem at hand relates to building a classfier to predict whether a client will subscribe to a term deposit, with the aim of identifying key features that may drive campaign efficiency. On top of building a predictive classifier, we would also want to determine the key influential factors that drive a prospect or client's decision to subscribe to a term deposit. By building a predictive model and identifying key factors, banks can improve their sales pipeline and increase effciency by reducing time, resources, and costs when reaching out to prospects and clients, while maintaining a non-invasive relationship with all clients. 
 
+![Capstone_image_1](./Images/Capstone_image_1.png)
+
 ## Data
 
 The dataset of this project pertains to direct telemarketing campaigns of a Portuguese banking institution. Information about the bank's client, as well as social and economic attributes, are all captured within this dataset through 41,118 client touchpoints across different 20 features. The objective and goal at hand is to predict and classify whether a client that has been reached out to will subscribe to a bank's term deposit or not. The telemarketing campaigns were based on phone calls made to clients. Oftentimes, more than one point of contact to the same client was required in order to assess if the product (bank term deposit) was subscribed by the client.
@@ -114,9 +116,14 @@ Gradient Boosting Model: We see that the Gradient Boostin Model's AUC Score impr
 
 XG Boost Model: We see that the XG Boost Model's AUC Score is 0.872 and 0.810 respectively for training and test data. Similar to other models, we were also able to pick up on the model's feature importances, with the top 3 feature importance being nr.emoployed, duration, and pdays_0.
 
+![Capstone_image](./Images/Capstone_image.png)
 ## Results
   
 When evaluating across all models deployed for this project, we are able to identify a 0.815 AUC Score for our Random Forest Model, followed by an AUC Score of 0.81 from our XG Boost and an AUC score of 0.802 from our Decision Tree Model. Furthemore, from our top performing model, we were able to identify our top 3 features that we can utilize as a way to further recommend the bank during its next telemarketing campaign. In conclusion, we would recommend the bank to focus on the duration of each call, the 3-month European interest rate, and pay attention to the number of employees working for the firm.
+
+![Capstone_image_2](./Images/Capstone_image_2.png)
+
+![Capstone_image_3](./Images/Capstone_image_3.png)
 
 With regards to the duration of each call, we saw that on average, 4 to 5 minutes is spent over the phone speaking with the client. However, we could explore reducing the average call time down to the median call time of 3 minutes.
 
