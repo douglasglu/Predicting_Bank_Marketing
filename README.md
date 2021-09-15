@@ -40,12 +40,15 @@ The dataset of this project pertains to direct telemarketing campaigns of a Port
 Further details of the origins of the data can be found in the link: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 Citation: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
-**Target Data**: 
+
+Target Data: 
 
 Output variable (desired target):
+
 1 - has the client subscribed a term deposit? (binary: "yes","no")
 
-Input variables:
+Input Variables:
+
 Bank Client Data:
    
 1 - age (numeric)
@@ -71,7 +74,8 @@ related with the last contact of the current campaign:
 
 11 - duration: last contact duration, in seconds (numeric). Important note:  this attribute highly affects the output target (e.g., if duration=0 then y="no"). Yet, the duration is not known before a call is performed. Also, after the end of the call y is obviously known. Thus, this input should only be included for benchmark purposes and should be discarded if the intention is to have a realistic predictive model.
   
-other attributes:
+Other Attributes:
+
 12 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
   
 13 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
@@ -80,7 +84,7 @@ other attributes:
 
 15 - poutcome: outcome of the previous marketing campaign (categorical: "failure","nonexistent","success")
   
-social and economic context attributes
+Social and Economic Context Attributes:
   
 16 - emp.var.rate: employment variation rate - quarterly indicator (numeric)
   
